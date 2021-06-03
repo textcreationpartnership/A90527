@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A pertinent speech made by an honourable member of the House of Commons, tending to the establishment of kingly government, as the only way to the setling of these three distracted nations in their due rights, privileges and immunities.</title>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90527</idno><idno type="EEBO-CITATION">99867007</idno>
+  <idno type="VID">168821</idno>
+  <idno type="EEBO-PROQUEST">2248507630</idno>
+  
+            <idno type="STC">Wing P1674</idno>
+            <idno type="STC">Thomason E1017_18</idno>
+            <idno type="STC">ESTC R208000</idno>
+            <idno type="PROQUEST">99867007</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99867007e"/>
+            <note>(EEBO-TCP ; phase 2, no. A90527)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168821)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 151:E1017[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A pertinent speech made by an honourable member of the House of Commons, tending to the establishment of kingly government, as the only way to the setling of these three distracted nations in their due rights, privileges and immunities.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year, 1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Lacking an official order to print.</note>
+                  <note>Annotation on Thomason copy: "March 16 1659"; also the last two numbers of the imprint date have been marked through.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term type="topical_term">Monarchy --  Great Britain --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168821:1"/>
+            <p> A PERTINENT SPEECH Made by an Honourable MEMBER OF THE HOUSE OF COMMONS, TENDING To the Establishment of Kingly Go<g ref="char:EOLhyphen"/>vernment, as the only way to the setling of these three distracted Nations in their due Rights, Privileges and Immunities.</p>
+            <p>LONDON, Printed in the Year, 1660.</p>
+            <pb facs="tcp:168821:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="oration">
+            <pb n="1" facs="tcp:168821:2"/>
+            <head>THE SPEECH Of a VVorthy Member of Parliament, Upon the present Debates of set<g ref="char:EOLhyphen"/>ling a Government and Qualificati<g ref="char:EOLhyphen"/>ons of Members, to be elected in the next Parliament.</head>
+            <opener>
+               <salute>Mr. Speaker,</salute>
+            </opener>
+            <p>AS▪ we who were forcibly excluded by the Ambition of General <hi>Cromwell,</hi> and his Re<g ref="char:EOLhyphen"/>bellious Army, from sitting in the House, or performing those Trusts imposed on us by the People as their Representatatives in Parliament, Ought to acknowledge our Re-investing, as a high providence of God, and look upon it as a gracious dispensation of his mercy to us and these three Nations; So, I think it our Duty and Obligation in answer to such a mercy, to endeavour to the ut<g ref="char:EOLhyphen"/>most of our power, the re-establishing of these Nati<g ref="char:EOLhyphen"/>ons in Peace and Quietnesse, and the settlement of such a Government as may best quadrate with the Spirits and Temper of the people.</p>
+            <p>That Vicissitudes and Changes of Government (such as hath lately been imposed upon us by a par<g ref="char:EOLhyphen"/>cel of the most fanatique, mad-brain'd Spirits of the Nation) do clearly tend to the ruine of any King<g ref="char:EOLhyphen"/>dom, Common-wealth, or Society of men whatsoe<g ref="char:EOLhyphen"/>ver,
+<pb n="2" facs="tcp:168821:3"/> we have lately seen by too sad Experience. Such Changes being only the Scourges wherewith God chastises Rebellious Kingdoms, and such Spirits on<g ref="char:EOLhyphen"/>ly sent into the World to be ruine and distraction of those Nations they live in.</p>
+            <p>I need not at all insist upon our forcible exclusion, those things we resolved on before it; The Solemn League and Covenant we took (to establish and de<g ref="char:EOLhyphen"/>fend the King, his Successors in their Estate,) The many Fallacyes and cheats since put upon the Nati<g ref="char:EOLhyphen"/>on, by those, who under a pretence of Right to e<g ref="char:EOLhyphen"/>stablish a Government over them, have only endea<g ref="char:EOLhyphen"/>voured to maintain their own, or introduce others to execute an unjust, illegal, and arbitrary Power over these Kingdoms.</p>
+            <p>But Mr. Speaker, let me say a little to the present sense of the Nation, let us take the genera<g ref="char:EOLhyphen"/>lity of the People, even to the very Plough<g ref="char:EOLhyphen"/>man (who is not possessed with a Fanatick Spirit) and we shall find, that they were now so highly sen<g ref="char:EOLhyphen"/>sible of the Oppressions and Burthens laid upon them; that like desperate men they are ready to catch at what they before disavowed, and gape after the Government by a King, which they formerly so resolutely declamed and fought against; by so sad experience have they learned <hi>the difference be<g ref="char:EOLhyphen"/>tween the Government by a Prince and by Peasauts:</hi> and though they might (if those who then pretended themselves a Parliament, and the Supreme Autho<g ref="char:EOLhyphen"/>rity of the Nation had struck whilst the Iron was hot) have accepted of a Government by a Common<g ref="char:EOLhyphen"/>wealth, which was then so highly pretended to be established; Yet having now found out the frandu<g ref="char:EOLhyphen"/>lent designs of those men who under such pretences endeavoured only to perpetuate themselves in the Government, to enslave the People, intrench upon their Liberties, and ingrosse their Estates, they are wholly revived from that Fanatick Slumber, so far, that had God continued still his Scourge upon this
+<pb n="3" facs="tcp:168821:3"/> Nation, the name of a Parliament would ere 1660. had been past have grown as odious to the People, (who were sufficiently gull'd with Mock-Representa<g ref="char:EOLhyphen"/>tives) as that of a King was in 1648. And suffici<g ref="char:EOLhyphen"/>ently odious indeed alteady grown, the whole Na<g ref="char:EOLhyphen"/>tion groauing under their Exorbitances, having turn'd the Scale, and made the Name of a King grown sweet again in their Mouths, they finding by expe<g ref="char:EOLhyphen"/>rience, that the Government of a King, though Ty<g ref="char:EOLhyphen"/>rannical is far better, than the usurping Tyranny of many Plebeians.</p>
+            <p>Nor Sir, do the Common people only understand their own particular interest, but begin to pry into a National; the lawfull Heir, who was formerly cryed up for the Common enemy of <hi>Englands</hi> peace, is now (with as much applause, as before with dis<g ref="char:EOLhyphen"/>grace) sainted, and now look'd upon as the only Person, whose readmission to the Crown, can make these Nations happy, and restore them to their due Rights, Liberties, and Privileges, there being many who are now listned to as Oracles, living to recount the <hi>Halcyon</hi> daies they enjoyedunder his Father.</p>
+            <p>'Tis (Sir) an old Proverb, and has proved as true as old <hi>Vox Populi, Vox Dei.</hi> The general voice of the people is the Oracle by which God declares his mind, They are his Prophet by whom he speaks: What have we then to do? 'tis the voice of God, 'tis the hearty desires of the people, 'tis the Interest of the Nation, 'tis according to our own Oath in the Solemn League and Covenant, and shall we when prest by all these still resist the re-admittance of the lawfull Heir to the Crown? Shall we still resist our own Interest? Shall we still deny the cry of the people for Right? Or shall we further provoke the vengeance of God upon us for those crying sins of his Fathers Murder and his Expulsion.</p>
+            <p>But Mr. Speakes, there are many people (say some) whose Interests are so opposite to that of the lawfull Heir, that they cannot subsist together, these
+<pb n="4" facs="tcp:168821:4"/> men have bought his, the Bishops, Deans, and Chap<g ref="char:EOLhyphen"/>ters Lands, have ventured their lives and fortunes a<g ref="char:EOLhyphen"/>gainst him; Nay it may be objected, that the whole Nation hath been engaged against him to regain their Liberties, and free themselves from the preten<g ref="char:EOLhyphen"/>ded Tyrannies of his Father. But Sir, Did the Parliament when it was free and full ever deem, or vote the late King a Tyrant or Traytor? Was his Imprisonment, much lesse his Death, ever voted in the House when so? Was not the first taking up of Arms under Declaration to maintain the Parlia<g ref="char:EOLhyphen"/>ments Privileges, without infringing the Kings Pre<g ref="char:EOLhyphen"/>rogative? Did we not all unanimously swear to maintain the King in his due Rights, to bring him back to his Parliament, to settle him in his Throne with glory? How comes it then to passe, that we who when we were excluded the House, left a King alive, left a House of Lords, the second Estates of the Kingdom, (and which onely can compleat a free Parliament) sitting without a House of Com<g ref="char:EOLhyphen"/>mons full and chosen by the free Votes of the peo<g ref="char:EOLhyphen"/>ple? Now at our admission find our King murde<g ref="char:EOLhyphen"/>red, Our House of Peers excluded, the House of Commons reduced to the fifth part of their due num<g ref="char:EOLhyphen"/>ber, and their numerous fellow-Members impeded sitting for eleven years. I think Mr. Speaker, it would not be amisse to examin by what Authority these things have been done. <hi>Is it thus, that the whole Na<g ref="char:EOLhyphen"/>tion was engaged to regain their Liberties?</hi> A fair ha<g ref="char:EOLhyphen"/>zard! But what power had those who continued sitting, to execute this Arbitrary Authority? which of the Fundamental Laws of the Land did invest them with Authority to cut off their Kings head, to degrade the Bishops, to disinherit his posterity, to abolish Kingly Government, under which this Na<g ref="char:EOLhyphen"/>tion had so long and happily flourished, and to sell the Kings, Queens, Princes, Bishops, Deans and Chapters Lands, or rather to enslave themselves in them, and to act at their will and pleasure, though to the ruine of the Nation?</p>
+            <pb n="5" facs="tcp:168821:4"/>
+            <p> The Law affords any man to take his own goods where he finds them, though bought by the then possessor, Why should not then these men who have bought those Lands which were in effect stolen (the others having no power to sell them) be inforced to restore them, and (if there could be any, their Woods and Rents having already more than made good the Purchases) sit down with the losse for their surreptitious bargains?</p>
+            <p>But Sir, 'tis objected, that the violent Restaura<g ref="char:EOLhyphen"/>tion of these Lands, will (together with that bug<g ref="char:EOLhyphen"/>bear <hi>Liberty of Conscience)</hi> breed a new Civil War; That the Land hath been sufficiently watered with its Native blood, That a new disturbance will be the ruine of the whole, and that we have found by experience, that it's better to sit still and content our selves, under the oppression, than seek help by Civil Disturbance, whose Remedy proves often worse than the disease, so that these Lands not being restored the re▪admission of the lawfull Heir may be judged impossible, there being no Estate found to maintain a Kingly Court and Charge.</p>
+            <p>Could we Mr. Speaker find wayes to maintain our aspiring General <hi>Cromwel,</hi> and to keep his Court in more splendor than ever did King of <hi>England?</hi> and cannot we as well find means to maintain the true and lawfull Heir, the Charge likewise likely to be abated by the pay of the Army being clearly ta<g ref="char:EOLhyphen"/>ken off, which by his re admitment will be found su<g ref="char:EOLhyphen"/>perfluons?</p>
+            <p>I need not at all inlarge my self in reasons, there's none so dull but must necessarily yield to his re-ad<g ref="char:EOLhyphen"/>mitment, except their Interest infatuates their under<g ref="char:EOLhyphen"/>standings. Let us then Mr. Speaker, who are yet look'd upon by the people to have our hands dip'd in some measure in the Nations miseries, by beginning that deplorable War, lay a plaister to the wounds and Balsome to the sores of these distressed Nations, by <hi>Restoring them their Kings as at the first, and their Princes as at the beginning.</hi>
+            </p>
+            <pb n="6" facs="tcp:168821:5"/>
+            <p> No<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> let us be ashamed after having so long gone out of the way, after all this obstinacy of Spirit, af<g ref="char:EOLhyphen"/>ter the expence of so much blood and Treasure, to re<g ref="char:EOLhyphen"/>turn again unto those paths of truth from which we have so grossely deviated, but rather repent for the wrongs we have done our Prince, for the wrongs we have done our Countrey, and for the wrongs we have done our selves, and recall our true and rightful Prince, who will without doubt be so gracious to par<g ref="char:EOLhyphen"/>don all offences.</p>
+            <p>But if Sir, there be some particular crimes of so high a nature that they admit not pardon, shall the Nation still remain miserable for the offences of those particular men? Shall <hi>England</hi> still be unhappy for want of an ax or an halter to be bestowed on some who have so justly deserved it? it must not, can<g ref="char:EOLhyphen"/>not be.</p>
+            <p>Pardon Sir, this passion and prolixity, and give me leave to answer one more objection <hi>(i. e)</hi> that the people would be better satisfied if this Parliament would wholly omit the settling of any Government, and leave it to a free Parliament; though this be dis<g ref="char:EOLhyphen"/>putable, yet we will grant it, but then what a Par<g ref="char:EOLhyphen"/>liament shall they have, we have been long debating about their qualificatione. Shall the people have a free Parliement, or shall they not? if they shall have a free Parliament, then must they have free liberty to choose whom they please, if not, we do but fol<g ref="char:EOLhyphen"/>low former steps, and still endeavour to enslave them.</p>
+            <p>To conclude, Mr. Speaker, we may in reason judge, that the first thing done by a free Parliament, will be to invite the lawfull Heir to possession, there being no likelyhood that any other Government can be settled, and therefore <hi>I</hi> think we had as good do it now upon such Terms and Conditions, as may se<g ref="char:EOLhyphen"/>cure the peace and quiet of this Nations, and be safe to them who have engaged against him.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
